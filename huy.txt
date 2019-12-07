@@ -13,7 +13,9 @@ Huy Plan
 
 
 - set up git
-    - 
+    - pull/push
+    - fetch (refresh)
+    
 
 - set up visual studio code (IDE)
     - code . (open everything in directory)
@@ -38,13 +40,21 @@ Huy Plan
 
 - go over python basics (https://docs.python.org/3/)
   - how to run python
+    - python hello_world.py
+
   - function declaration
+    
   - variable creation
 
 - go over python basic data structures (dictionary, list)
-  - list
+  - list (array in Java)
+    - non unique, in order
+  - set
+    - keys are unique, in order
   - dictionary
+    - key, value pairs
   - string
+    -
 
 - go over class, constructor, etc..
 
