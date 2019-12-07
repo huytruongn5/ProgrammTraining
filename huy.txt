@@ -1,0 +1,51 @@
+Huy Plan
+- set up brew
+    - brew install mysql
+    - brew list
+
+- set up pyenv (python envrionment)
+    - brew install pyenv
+    - brew install mysql
+    - commands:
+        - pyenv versions (list all installed versions in pyenv)
+        - pyenv install 3.8.0 (install python version 3.8.0)
+        - pyenv global 3.7.5 (switch to version 3.7.5)
+
+
+- set up git
+    - 
+
+- set up visual studio code (IDE)
+    - code . (open everything in directory)
+    - code (open visual studio code)
+    - code training.py (open training.py file)
+
+- .bash_profile
+    - envrionment variables
+    - export
+        Ex: export TEST_NAME='Huy' (create envrionment variable TEST_NAME and set to 'Huy')
+
+- check python version
+    - python --version
+
+- go over terminal commands
+    - cd (change directory)
+        - cd .. (go back one directory)
+        - cd (go back to root directory)
+    - ls (list files in directory)
+    - touch training.py (create)
+
+
+- go over python basics (https://docs.python.org/3/)
+  - how to run python
+  - function declaration
+  - variable creation
+
+- go over python basic data structures (dictionary, list)
+  - list
+  - dictionary
+  - string
+
+- go over class, constructor, etc..
+
+- go over imports
